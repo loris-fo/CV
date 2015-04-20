@@ -6,10 +6,10 @@ My non-coding interests include Motorsports competition, finance and african ins
 ##Selected Portfolio
 | Project Repo | Live Version | Technologies | Testing | Description |
 | ------------ | ----------- | ----------- | ----------- | ----------- |
-| [Proximibee]() | [GO!]() | JavaScript, jQuery, HTML & CSS, Rails, Postgres, Wikitude, Cordova | Rspec | Final project at Makers Academy. A way to provide interactive marketing content depending on your current location. The opportunities for this MVP are infinite and can be used in any kinf of industry.|
-| [Proximibee-website]() | [GO!]() | JavaScript, jQuery, HTML & CSS || Website used as a presentation for our final project.|
+| [Proximibee]() || JavaScript, jQuery, HTML & CSS, Rails, Postgres, Wikitude, Cordova | Rspec | Final project at Makers Academy. A way to provide interactive marketing content depending on your current location. The opportunities for this MVP are infinite and can be used in any kinf of industry.|
+| [Proximibee-website]() | [GO!](http://proximibee.herokuapp.com/) | JavaScript, jQuery, HTML & CSS || Website used as a presentation for our final project.|
 | [LegsOrSausages]() | [GO!](http://legsorsausages.herokuapp.com/) | Angular, Sinatra, HTML & CSS, PostgreSQL | Protractor, Capybara  | Guess if the picture represents legs or sausages! |
-| [tip_app]() | [Play it!]() | Meteor, , HTML & CSS | Jasmine | My first mobile app which purpose is to calculate how much tip you should give to the waiter. |
+| [tip_app]() || Meteor, , HTML & CSS | Jasmine | My first mobile app which purpose is to calculate how much tip you should give to the waiter. |
 
 
 
