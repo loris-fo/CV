@@ -1,7 +1,7 @@
 #Loris Fochesato
 I am a junior full-stack web developer who likes building applications with intuitive user stories, encapsulated code, and comprehensive testing. From February 3, 2015 to April 17, 2015, I completed a 12-week web development course at Makers Academy. I am currently seeking a junior developer role in London.
 
-My non-coding interests include Motorsports competition, finance and african inspired organic products. My academic background is management, finance, and entrepreneurship. In my spare time, I like to enjoy a good book, do sports, and work on amazing projects like 3D printing.
+My non-coding interests include Motorsports competition, finance and african inspired organic products. My academic background is management, finance, and entrepreneurship. In my spare time, I like to enjoy a good book, do sports, and work on amazing projects like 3D printing architecture.
 
 ##Selected Portfolio
 | Project Repo | Live Version | Technologies | Testing | Description |
