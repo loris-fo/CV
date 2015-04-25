@@ -84,7 +84,7 @@ My non-coding interests include Motorsports competition, finance and african ins
 
 - I developed my communication skills through my Management degree at EDHEC Business School and also during my time working at Baiont Ltd working  as an Account Manager.
 
-- Successfully liaised with clients across marketing, PR and sales, culminating in some of the highest sales previously seen.
+- Successfully liaised with clients across marketing, PR, HR and sales, culminating in some of the highest sales previously seen.
 
 - Good at communicating how financial products work in a none technical way - learnt this whilst working for Baiont Ltd (I'm assuming talking about tech products can't be much harder). I took client's companies through their finances, understanding their needs, and helped them save on their costs using our product.
 
