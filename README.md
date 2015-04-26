@@ -145,6 +145,6 @@ I am also building an e-commerce website to sale petrol-saving products for vehi
 
 ### EDHEC Business School (France)
 
-- BBA in management with majors in Finance and ENtrepreneurship.
+- BBA in management with majors in Finance and Entrepreneurship.
 
 Check my [LinkedIn](https://uk.linkedin.com/pub/loris-fochesato/60/673/a09) profile too!
