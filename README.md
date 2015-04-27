@@ -141,7 +141,7 @@ I am also building an e-commerce website to sale petrol-saving products for vehi
 - JavaScript, NodeJS, jQuery, AJAX
 - HTML, CSS
 - Rspec, Capybara, Cucumber
-- Jasmine, Mocha, Selenium
+- Jasmine, Protractor
 
 ### EDHEC Business School (France)
 
