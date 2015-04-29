@@ -126,7 +126,7 @@ I am also building an e-commerce website to sale petrol-saving products for vehi
 ###Polyglot
 
 - I was born in France, therefore my mother tongue is French.
-- I speak fluently English.
+- I speak fluent English.
 - I lived in Spain during 15 years and speak perfectly spanish.
 
 ##Education
