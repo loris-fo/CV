@@ -131,7 +131,7 @@ I am also building an e-commerce website to sale petrol-saving products for vehi
 
 ##Education
 
-###Makers Academy ~ 03-02-2015 to 17-04-2015
+###Makers Academy ~ 03-02-2015 to 24-04-2015
 
 - Problem solving
 - Independent learning
